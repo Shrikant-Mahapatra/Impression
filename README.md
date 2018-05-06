@@ -5,4 +5,4 @@ This project aims at creating a Windows Desktop tool that has functionality of
 -> Screen Recorder
 -> OCR
 
-I am yet to decide which programming languages and libraries to use!!
+I am going to use QT C++ as I want this application to run on both Windows and Linux.
